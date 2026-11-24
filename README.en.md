@@ -39,6 +39,8 @@ Windows only for now; a macOS version is in progress.
    - actions that need your approval pop up in a small window on top;
    - results that pass both the Lean check and the statement check light a star on the star map.
 
+For every step in detail, see the [user guide](docs/guide/en/README.md).
+
 ## FAQ
 
 **Windows says “Windows protected your PC”. What should I do?**
@@ -89,10 +91,12 @@ Uninstalling doesn’t delete the run records in your work folder. Delete them y
 
 Turn on “Run locally only” in Settings: Qunxing then takes no updates, uploads nothing, and draws problems from the local bank snapshot. Calling an AI still needs the internet, because the AI tools themselves do.
 
+More questions are answered in the guide's [FAQ](docs/guide/en/faq.md).
+
 ## Privacy
 
 - Nothing is uploaded by default. Run records, proofs and costs stay on your computer.
-- To submit a result to Qunxing, you press “Upload to Qunxing” yourself. It has two steps, submitting the proof and uploading research data, each with its own consent.
+- To submit a result to Qunxing, you press “Upload to Qunxing” yourself. It has two steps, submitting the proof and uploading research data, each with its own consent. The beta can't upload yet; both steps arrive when uploads open.
 - Qunxing doesn’t collect conversation text, prompts, files or paths on your computer, accounts or API keys. The details will be in the Qunxing research code, published with the website.
 
 ## Contributing
