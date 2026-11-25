@@ -15,7 +15,7 @@ Choose filters on the left. Leave a group empty to allow any value.
 | Track | **Open problems**: nobody has solved them yet. A solution is a new result, so the novelty check comes first.<br>**Verification**: already solved. Formalize the known proof in Lean to confirm it.<br>**My own problem**: a problem you bring yourself. Coming in a later version. |
 | Sector | Combinatorics, Number theory, Geometry, Analysis, Algebra, Probability & statistics, Theory of computing, Topology, Dynamics, Logic, Applied & other |
 | Kind | Proof, Construction, Bounds, Computation |
-| Difficulty | **Entry**: finite computation, special cases or small extensions; a good first run.<br>**Intermediate**: a research-level open problem, usually with partial progress.<br>**Advanced**: open for 20+ years; a solution would be major news in the field. |
+| Difficulty | **Entry**: finite computation, special cases or small extensions; a good first run.<br>**Intermediate**: a research-level open problem, usually with partial progress.<br>**Advanced**: a problem open for years and tried by experts; a solution would be major news in the field.<br>**Legendary**: a conjecture open for 30+ years and famous beyond its field, such as Schinzel's Hypothesis H or the smooth 4-dimensional Poincaré conjecture; a solution would be news across all of mathematics. |
 
 - The page shows how many problems match.
 - Click **Draw a problem**, or click the star gate.
@@ -204,6 +204,7 @@ When the run ends, the result page opens.
 Every problem you explore leaves a star here.
 - Drag to pan, scroll or pinch to zoom, double-click to fit.
 - **What the stars mean**, at the bottom left, is the legend.
+- A star's size shows the difficulty: Entry is smallest, Legendary largest.
 
 **Stages of a star**:
 
