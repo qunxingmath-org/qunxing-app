@@ -93,6 +93,17 @@ Only usage and cost, anonymously. It's used to study how much compute AI needs f
 - You can stop uploading or ask for deletion at any time.
 - If what we upload changes, we ask for your consent again.
 
-The consent screen states where the data is stored, who receives it and how long it is kept. The full rules are in the Qunxing Research Code, which will be published with the website.
+## Where it is stored and who receives it
+
+Uploaded data is stored in the United States:
+- **ZTNV Limited (VPS.Taxi)** provides Qunxing's server in Los Angeles. Website access logs, the data you upload and your account link are stored on it.
+- **GitHub**: sign-in with GitHub; stores public proofs, the anonymized data we publish, and encrypted private research snapshots.
+- **Cloudflare**: DNS and email forwarding. We plan to keep encrypted disaster-recovery backups in its R2 storage (US jurisdiction); this is not in use yet.
+
+**How long it is kept**:
+- Original research records are kept until the study ends or for 3 years, whichever comes first.
+- After deletion, records in the intake database go at once, and copies in backups disappear within 30 days.
+
+The full details are in the website's [Privacy Policy](https://www.qunxingmath.org/en/privacy/). The research rules are in the Qunxing Research Code, which will be published on the website.
 
 Next: [FAQ](faq.md)
